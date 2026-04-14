@@ -1,0 +1,11 @@
+id: empareg_t2dm
+title: Empagliflozin in T2DM (cardiovascular outcomes)
+population: Adults with type 2 diabetes and established cardiovascular disease
+intervention: Empagliflozin
+comparator: Placebo
+outcome: 3-point MACE (CV death, non-fatal MI, non-fatal stroke)
+outcome_type: binary
+decision_threshold: 1.0
+notes: |
+  Reference trial: EMPA-REG OUTCOME (Zinman et al 2015, NEJM). Mature, large,
+  well-replicated. Calibration benchmark; expected very low flip probability.
